@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate Full-Stack developer from Georgia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luka0009" alt="luka0009" /></a> </p>
-
 - 🔭 I’m currently working on [Full Stack Blog App with MERN, TypeScript, Redux Toolkit, and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-luka0009.vercel.app/](https://portfolio-luka0009.vercel.app/)
