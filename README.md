@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **lukabarbakadze18@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luka0009)
 
 
 <h3 align="left">Languages and Tools:</h3>
