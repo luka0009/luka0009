@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full-Stack developer from Georgia</h3>
 <br />
 
-- 🔭 I’m currently working on [Full Stack Blog App with MERN, TypeScript, Redux Toolkit and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
+- 🔭 I’m currently working on 2 apps: 
+  [Full Stack Blog App with MERN, TypeScript, Redux Toolkit and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
+  [Full Stack Blog App with MERN, TypeScript, Redux Toolkit and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
 
 - 👨‍💻 Check out my portfolio at [https://portfolio-luka0009.vercel.app/](https://portfolio-luka0009.vercel.app/)
 
