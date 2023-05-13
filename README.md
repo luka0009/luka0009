@@ -8,7 +8,7 @@
     <li><a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13</a></li> 
   </ul>
   
-- 👨‍💻 Check out my portfolio at [https://portfolio-luka0009.vercel.app/](https://portfolio-luka0009.vercel.app/)
+- 👨‍💻 Check out my portfolio at [This link](https://portfolio-website-luka0009.vercel.app/)
 
 - 📫 How to reach me: **lukabarbakadze18@gmail.com**
 
