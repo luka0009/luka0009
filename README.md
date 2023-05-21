@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 2 apps:
   <ul>
     <li><a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query and many other industry-standard technologies.</a></li>
-    <li><a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13</a></li> 
+    <li><a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind and etc. </a></li> 
   </ul>
   
 - 👨‍💻 [Check out my portfolio](https://portfolio-website-luka0009.vercel.app/)
