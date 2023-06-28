@@ -19,6 +19,7 @@
 									technologies such as Node.js with Express or full stack
 									frameworks like Next.js or Nuxt.js.
 								</p>
+	<br />
 
 - 🔭 I’m currently working on: <a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query and many other industry-standard technologies.
   
