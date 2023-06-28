@@ -8,7 +8,7 @@
 									languages and technologies, mostly in Javascript language and
 									its frameworks, especially in React & Vue and their ecosystem
 								</p>
-								<br />
+								
 								<p>
 									As a web developer, I have had the opportunity to develop and
 									architect solutions for various web projects, employing modern
