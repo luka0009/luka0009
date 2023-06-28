@@ -2,6 +2,24 @@
 <h3 align="center">A passionate Full-Stack developer from Georgia</h3>
 <br />
 
+<p>
+									I am a Frontend/Full Stack Web developer with over 2 years of
+									programming experience. I'm Skilled in various programming
+									languages and technologies, mostly in Javascript language and
+									its frameworks, especially in React & Vue and their ecosystem
+								</p>
+								<br />
+								<p>
+									As a web developer, I have had the opportunity to develop and
+									architect solutions for various web projects, employing modern
+									JavaScript frameworks and adhering to industry best practices
+									and standards. My experience spans both frontend architecture
+									and development of client web applications and websites.
+									Additionally, I have worked on full-stack applications using
+									technologies such as Node.js with Express or full stack
+									frameworks like Next.js or Nuxt.js.
+								</p>
+
 - 🔭 I’m currently working on: <a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query and many other industry-standard technologies.
   
   
