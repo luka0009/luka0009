@@ -12,6 +12,9 @@
   
   
 - 📣 Check out my latest projects:
+ - [Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind, and more](https://github.com/luka0009/Next.js-13-chat-app)
+  - [Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query, and many other industry-standard technologies](https://github.com/luka0009/Full-stack-Blog-App)
+  
 <ul>
         <li>
             <a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind, and more.</a>
