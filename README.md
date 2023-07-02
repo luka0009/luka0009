@@ -7,10 +7,21 @@
 							
 	
 
-- 🔭 I’m currently working on: <a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query and many other industry-standard technologies.
+- 🔭 I’m currently working on: <a href="https://github.com/luka0009/eccomerce-cms-admin-dashboard">CMS Admin Dashboard for Full stack Eccomerce App with Next.js, MySQL/Planetscale, Tailwind/ShadcnUI and etc. 
+</a>
   
   
-- 📣 Check out my latest project: <a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind and etc. </a>  
+- 📣 Check out my latest projects:
+<ul>
+	<li>
+		<a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind and etc. 		
+	</li>
+ 	<li>
+		<a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query and many other industry-standard technologies.
+			</a>
+	</li>
+</ul>
+     
   
 - 👨‍💻 [Check out my portfolio](https://portfolio-website-luka0009.vercel.app/)
 
