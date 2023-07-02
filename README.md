@@ -12,11 +12,11 @@
   
   
 - 📣 Check out my latest projects:
-<ol align="center">
-        <li>
+<ol>
+        <li align="center">
             <a href="https://github.com/luka0009/Next.js-13-chat-app">Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind, and more.</a>
         </li>
-        <li>
+        <li align="center">
             <a href="https://github.com/luka0009/Full-stack-Blog-App">Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query, and many other industry-standard technologies.</a>
         </li>
     </ol>
