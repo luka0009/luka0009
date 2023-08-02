@@ -6,11 +6,12 @@
 <p>Throughout my career, I've had the opportunity to work on diverse projects, where I've showcased my skills in developing and designing solutions. I have a deep understanding of modern JavaScript frameworks and always follow industry best practices and standards. My expertise extends to both frontend architecture and client-side application & web development as well as full-stack applications using technologies such as Node.js with Express.js or full stack frameworks like Next.js or Nuxt.js.</p>
 							
 	
-- 🔭 I’m currently working on: [CMS Admin Dashboard for Full stack Eccomerce App with Next.js, MySQL/Planetscale, Tailwind/ShadcnUI and more.](https://github.com/luka0009/eccomerce-cms-admin-dashboard) + [Front end eccomerce store website that is used with the dashboard](https://github.com/luka0009/eccomerce-store)
+- 🔭 I’m currently working on: [Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query, and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
 
 - 📣 Check out my latest projects:
     - [Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind, and more.](https://github.com/luka0009/Next.js-13-chat-app)
-    - [Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query, and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)
+    - [CMS Admin Dashboard for Full stack Eccomerce App with Next.js, MySQL/Planetscale, Tailwind/ShadcnUI and more.](https://github.com/luka0009/eccomerce-cms-admin-dashboard) + [Front end eccomerce store website that is used with the dashboard](https://github.com/luka0009/eccomerce-store)
+
 
 - 👨‍💻 [Check out my portfolio](https://portfolio-website-luka0009.vercel.app/)
 
