@@ -6,7 +6,7 @@
 <p>Throughout my career, I've had the opportunity to work on diverse projects, where I've showcased my skills in developing and designing solutions. I have a deep understanding of modern JavaScript frameworks and always follow industry best practices and standards. My expertise extends to both frontend architecture and client-side application & web development as well as full-stack applications using technologies such as Node.js with Express.js or full stack frameworks like Next.js or Nuxt.js.</p>
 							
 	
-- 🔭 I’m currently working on: [Nuxt 3 Authentication with MongoDB, Refresh Access Tokens, Email Verification & Password Reset Functionality](https://github.com/luka0009/nuxt3-custom-auth)
+- 🔭 I’m currently working on: [Nuxt 3 Authentication with MongoDB, Refresh Access Tokens, Email Verification & Password Reset Functionality](https://github.com/luka0009/NuxtJS-Auth)
 
 
 - 📣 Check out my latest projects:
