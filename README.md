@@ -6,14 +6,13 @@
 <p>Throughout my career, I've had the opportunity to work on diverse projects, where I've showcased my skills in developing and designing solutions. I have a deep understanding of modern JavaScript frameworks and always follow industry best practices and standards. My expertise extends to both frontend architecture and client-side application & web development as well as full-stack applications using technologies such as Node.js with Express.js or full stack frameworks like Next.js or Nuxt.js.</p>
 							
 	
-- 🔭 I’m currently working on: [Nuxt 3 Authentication with MongoDB, Refresh Access Tokens, Email Verification & Password Reset Functionality](https://github.com/luka0009/NuxtJS-Auth)
+- 🔭 I’m currently working on: [cutting-edge Full Stack Blog App leveraging the power of Next.js](https://github.com/luka0009/blog-app)
 
 
-- 📣 Check out my latest projects:
-    - [Full Stack Blog App with MERN, TypeScript, Redux Toolkit, Tailwind, React Query, and many other industry-standard technologies.](https://github.com/luka0009/Full-stack-Blog-App)	 
+- 📣 Check out some of my recent projects:
+    - [Nuxt 3 Authentication with MongoDB, Refresh Access Tokens, Email Verification & Password Reset Functionality](https://github.com/luka0009/NuxtJS-Auth)	 
     - [Full stack Chat application with Next.js version 13, NextAuth, Prisma, MongoDB, Tailwind, and more.](https://github.com/luka0009/Next.js-13-chat-app)
     - [CMS Admin Dashboard for Full stack Eccomerce App with Next.js, MySQL/Planetscale, Tailwind/ShadcnUI and more.](https://github.com/luka0009/eccomerce-cms-admin-dashboard) + [Front end eccomerce store website that is used with the dashboard](https://github.com/luka0009/eccomerce-store)
-    - [Full Stack App with Nuxt 3, typescript, tailwind css & MongoDB](https://github.com/luka0009/nuxt3-full-stack)
 
 
 - 👨‍💻 [Check out my portfolio](https://portfolio-website-luka0009.vercel.app/)
