@@ -18,7 +18,7 @@ also very experienced in python(Django/Flask) and  Ruby(Ruby on Rails). </p>
 <p>Throughout my career, I've had the opportunity to work on diverse projects, where I've showcased my skills in developing and designing solutions. I have a deep understanding of modern JavaScript frameworks and always follow industry best practices and standards. My expertise extends to both frontend architecture and client-side application & web development as well as full-stack applications using technologies such as Ruby and Ruby on rails or Node.js with Express, Also full stack frameworks like Next.js or Nuxt.js</p>
 							
 	
-- 🔭 I’m currently working on: [cutting-edge Full Stack Blog App leveraging the power of Next.js](https://github.com/luka0009/blog-app)
+- 🔭 currently working on my own platform
 
 
 - 📣 Check out some of my recent projects:
