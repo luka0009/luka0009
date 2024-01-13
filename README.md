@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=luka0009&color=brightgreen&base=1001&style=plastic)
+
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate Full-Stack developer from Georgia</h3>
 
