@@ -14,7 +14,7 @@ align="center"	src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed
 
 -->
 
-<p>I am a Full Stack developer with over 2 years of programming experience. I'm Skilled in various programming languages and technologies, mostly in Javascript language and its frameworks, especially in React, React Native, and Vue. These frameworks, along with their ecosystem, are my expertise. am 
+<p>I am a Full Stack developer with over 4 years of programming experience. I'm Skilled in various programming languages and technologies, mostly in Javascript language and its frameworks, especially in React, React Native, and Vue. These frameworks, along with their ecosystem, are my expertise. am 
 also very experienced in python(Django/Flask for web development & pandas/NumPy for Data science & analysis) and  Ruby(Ruby on Rails). </p>
 
 <p>Throughout my career, I've had the opportunity to work on diverse projects, where I've showcased my skills in developing and designing solutions. I have a deep understanding of modern JavaScript frameworks and always follow industry best practices and standards. My expertise extends to both frontend architecture and client-side application & web development as well as full-stack applications using technologies such as Ruby and Ruby on rails or Node.js with Express, Also full stack frameworks like Next.js or Nuxt.js</p>
